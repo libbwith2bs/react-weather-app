@@ -59,7 +59,7 @@ export default function Weather() {
             <div className="col-6">
               <ul>
                 <li>
-                  Humidity: <span id="humidity"></span>%
+                  Humidity: <span id="humidity">15</span>%
                 </li>
                 <li>
                   Wind: <span id="wind">12</span>mph
