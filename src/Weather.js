@@ -74,7 +74,7 @@ export default function Weather() {
         <div className="open-source">
           <small>
             This app is
-            <a href="https://github.com/libbwith2bs/relearn-2">
+            <a href="https://github.com/libbwith2bs/react-weather-app">
               open-source code
             </a>
             by Libby Tutewiler
